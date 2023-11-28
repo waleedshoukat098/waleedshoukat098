@@ -1,3 +1,4 @@
+![logo](https://github.com/waleedshoukat098/waleedshoukat098/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Waleed Shoukat</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
 <img align="right" alt="coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxgoxmKk008xmBJvb1s3iAbh4EDpFcK2YKA&usqp=CAU"
